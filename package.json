@@ -39,7 +39,7 @@
   "dependencies": {
     "cross-env": "^1.0.7",
     "lodash": "^4.2.1",
-    "react": "^3.4.1",
+    "react": "^0.14.1",
     "react-dom": "^0.14.0"
   }
 }
